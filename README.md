@@ -1,10 +1,9 @@
 # CN_Assignments
 
 DijkstraShortestPath
-
-import java.util.*;
-
-public class DijkstraShortestPath {
+  
+    import java.util.*;
+    public class DijkstraShortestPath {
 
     static final int INF = Integer.MAX_VALUE;
 
@@ -85,7 +84,7 @@ public class DijkstraShortestPath {
 
         sc.close();
     }
-}
+    }
 
 
 Compile the Program
