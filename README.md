@@ -229,6 +229,19 @@ Run using- java OSPFLinkStateRouting
 
 .
 .
+Example Input-
+``
+Enter number of nodes: 5
+Enter number of edges: 6
+Enter edges in the format: from to weight
+0 1 2
+0 2 4
+1 2 1
+1 3 7
+2 4 3
+3 4 2
+Enter source router (0 to 4): 0
+``
 .
 .
 .
